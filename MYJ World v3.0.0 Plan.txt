@@ -1,0 +1,48 @@
+MYJ World v3.0.0 Plan
+
+1. First startup
+- Logo Show
+- Language
+- Privacy Policy & T&Cs
+- Theme
+- Account
+- Restart App
+
+2. Normal use
+- Home-screen
+- Previously used services below: From local db
+- Below trending: From online db
+- Services screen:
+* Calculator
+* Tally counter
+* Islamic:
++ Qur'an: Request download app for more features
++ Juma'a Surahs
++ Prayer times: Request download app for more features
++ Azkar: Request download app for more features
+* Dinner Decider
+* Todo list: Request download app for more features
+* Converter
+* AI Assistant throughout
+* Weather: Request download app for more features
+* Password generator
+- Inform users to download other apps from play store
+- Feedback
+
+Additional Features:
+- In-App Reviews
+- Auto updates
+
+
+Apps to maintain or make:
+- Calculator
+- Connect-to-web: bookmarks, history, look for modern replacement of webview
+- Quran With Audio and Translation, last read, bookmarks
+- Prayer times with azan
+- Smart assistant: make like google assistant, bixby, siri
+- Weather with notifs
+- Alarm
+- Todo list with reminder
+- Azkar app, with streak and reminders
+- Night clock app, with wake up dua and sleeping dua
+- Daily Planner, with daily plan, events on specific dates also + calendar
