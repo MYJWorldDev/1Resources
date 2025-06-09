@@ -35,8 +35,8 @@ Additional Features:
 
 
 Apps to maintain or make:
-- Calculator
-- Connect-to-web: bookmarks, history, look for modern replacement of webview
+- Calculator ✅
+- Connect-to-web: bookmarks, history, look for modern replacement of webview ✅
 - Quran With Audio and Translation, last read, bookmarks
 - Prayer times with azan
 - Smart assistant: make like google assistant, bixby, siri
