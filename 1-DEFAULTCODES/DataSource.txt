@@ -1,0 +1,6 @@
+object DataSource {
+    lateinit var poppins : FontFamily
+    lateinit var dmSans : FontFamily
+
+    lateinit var navController : NavHostController
+}

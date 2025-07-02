@@ -1,0 +1,29 @@
+...
+   poppins = FontFamily(
+        listOf(
+            Font(Res.font.poppins)
+        )
+    )
+
+    dmSans = FontFamily(
+        listOf(
+            Font(Res.font.dmsans)
+        )
+    )
+
+    navController = rememberNavController()
+
+    MaterialTheme {
+        Navigation(navController = navController)
+    }
+...
+
+@Composable
+fun Navigation(navController: NavHostController) {
+
+    NavHost(navController = navController, startDestination = "path") {
+        composable ("path") {
+            PathScreen()
+        }
+    }
+}
