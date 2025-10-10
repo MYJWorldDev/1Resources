@@ -1,2 +1,6 @@
 implementation("org.jetbrains.androidx.navigation:navigation-compose:2.9.0-beta04")
 implementation("androidx.compose.material:material-icons-extended:1.7.8")
+
+// FOR MULTIPLATFORM
+
+implementation("lol.hostov.icons:rounded:1.1.0")
