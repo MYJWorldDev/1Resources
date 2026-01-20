@@ -1,0 +1,8 @@
+To delete rogue files:
+Remove-Item -Path "build" -Recurse -Force
+
+For jars:
+./gradlew :composeApp:jvmJar
+
+For upload:
+conveyor make copied-site
